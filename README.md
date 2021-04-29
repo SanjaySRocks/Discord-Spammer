@@ -3,4 +3,5 @@
 ##### Note: To terminate script simply ctrl+c or close the window
 
 ##### It will ask you for input
-https://github.com/SanjaySRocks/Discord-Spammer/blob/main/Zmo0htzICC.png
+![](images/https://github.com/SanjaySRocks/Discord-Spammer/blob/main/Zmo0htzICC.png)
+
