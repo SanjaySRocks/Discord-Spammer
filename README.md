@@ -4,4 +4,6 @@
 
 ##### It will ask you for input
 
-```python3 discord-spam.py```
+```
+python3 discord-spam.py
+```
