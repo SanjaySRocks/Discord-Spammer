@@ -1,8 +1,6 @@
 import requests
 import time
 
-print("Hi this bot is created by Sanjay Singh (github.com/sanjaysrocks)")
-
 cmd = input("Enter Command to spam: ")
 token = input("Enter your discord token: ")
 channel = input("Enter Channel ID: ")
